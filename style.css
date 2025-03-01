@@ -1,0 +1,12 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F9F9F9;
+    color: #121212;
+}
+
+.hero {
+    background-color: #D72638;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}

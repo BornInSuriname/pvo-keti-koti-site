@@ -1,0 +1,15 @@
+title: PvO Keti Koti
+description: "Vrijheid zit in onze wortels, kracht in onze toekomst."
+baseurl: ""
+url: "https://jouwgithubusername.github.io/pvo-keti-koti-site"
+theme: minima
+
+# Navigatie
+collections:
+  pages:
+    output: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
